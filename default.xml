@@ -833,4 +833,7 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
+  <!-- LineageOS -->
+  <include name="snippets/lineage.xml" />
+
 </manifest>
